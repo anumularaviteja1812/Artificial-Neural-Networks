@@ -1,7 +1,7 @@
 # Project- Artificial Neural Networks
 
 
-## Dataset - Ships Dataset
+## Dataset
 
 The datasets you will be working with is available at: https://drive.google.com/drive/folders/1SskWLR1WAjTkfYSGjesz0xbNnki-Z0uY?usp=sharing
 
